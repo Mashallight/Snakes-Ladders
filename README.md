@@ -8,8 +8,7 @@ b) The players take turns to roll a normal 6-sided die. I Used Math.random() to 
 c) I created the board game that has a maximum of 25 cells.
 <br></br>
 <br></br>
-The rules of the game:
-<br></br>
+The rules of the game:<br></br>
 1. There are 2 snakes:
 <br></br>
  • At position 15, they will fall to position 5.
