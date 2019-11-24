@@ -2,10 +2,11 @@
 Snakes &amp; Ladders game 
 For this assignment 2, I made a Snakes and ladders game that is text base just using HTML and JavaScript.
 <br></br>
-a) Use arrays to keep the current position of 2 players.
-b) The players take turns to roll a normal 6-sided die.
-Use Math.random() to simulate the roll of a die.
-c) The board game has a maximum of 25 cells.
+a) I used arrays to keep the current position of 2 players.
+b) The players take turns to roll a normal 6-sided die. I Used Math.random() to simulate the roll of a die.
+c) I created the board game that has a maximum of 25 cells.
+<br></br>
+The rules of the game:
 The first player that passes square 25 wins the game.
  d) Position of the snakes:
  • If players land at position 15, they will fall to position 5.
