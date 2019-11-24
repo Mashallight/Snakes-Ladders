@@ -1,7 +1,7 @@
 # Snakes-Ladders
 Snakes &amp; Ladders game 
 For this assignment 2, I made a Snakes and ladders game that is text base just using HTML and JavaScript.
-Requirements:
+<br></br>
 a) Use arrays to keep the current position of 2 players.
 b) The players take turns to roll a normal 6-sided die.
 Use Math.random() to simulate the roll of a die.
