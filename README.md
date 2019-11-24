@@ -16,7 +16,6 @@ The rules of the game:
  <br></br>
  • At position 23, they will fall to position 16.
  <br></br>
- <br></br>
 2. There are 2 ladders:
 <br></br>
 • If players land at position 8, they will advance to position 15.
